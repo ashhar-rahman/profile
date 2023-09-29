@@ -58,6 +58,8 @@
   <li>Languages : C/C++, Python</li>
   <li>Softwares: Android Studio,  VS Code</li>
   <li>Frameworks : Tensorflow, Keras</li>
+ <li> Developer Tools: VS Code,Git GitHub.</li>
+<li>Web Development:HTML, CSS, JavaScript, ReactJS, Bootstrap, NodeJS, MongoDB</li>
   <li>ML Libraries : Numpy, Pandas, OpenCV</li>
 </ul>
 
@@ -66,14 +68,27 @@
 ## <div align="center"><img height="37px" width="37px" src="https://user-images.githubusercontent.com/91816645/173224552-1431c82c-250d-43f1-a3f7-0eb0fe115f7d.gif" align="center">&nbsp;&nbsp;My Projects&nbsp;&nbsp;<img height="37px" width="37px" src="https://user-images.githubusercontent.com/91816645/173224552-1431c82c-250d-43f1-a3f7-0eb0fe115f7d.gif" align="center">
 </div>
 <!-- MY PROJECTS LIST -->
-<ul>
+<!-- <ul>
   <li>Real Object Measurement using Python.</li>
   <li>Made a machine learning model used for detecting sign-language alphabets and can also detect some common words used in sign language.</li>
   <li>Tiffin service using Web D.</li>
-</ul>
+</ul> -->
 
-
-
+## E-Commerce Web-Site | HTML5, CSS3, and JavaScript, Google Firebase July 2023 <br>
+• Leveraged HTML5, CSS3, and JavaScript to craft an engaging and user-friendly interface<br>
+• Designed and integrated an intuitive shopping cart system, enabling users to effortlessly manage their selections with
+ease and efficiency.<br>
+• Designed a secure web app with integrating OAuth2<br>
+• Worked with Google Firebase to manage user inputted data across multiple platforms including web and mobile apps.<br>
+## REST API | Node.js, MongoDB, and Postman API November 2022  
+• The API is connected with back-end with DB and CRUD operation.<br>
+• Utilized Node.js, MongoDB, and Postman API to enable seamless communication between CLIENT and SERVER.<br>
+• Established a connection with the back-end and performed CRUD (Create, Read, Update Delete) operations through
+API.<br>
+• Designed and implemented a task table/collection with CRUD operations.<br>
+## SIGN LANGUAGE DETECTOR | Machine Learning Project WORKING
+• TensorFlow and OpenCV with various otherlibraries have been used like Keras, Sklearn, etc.<br>
+• The app can combine letter signs and the word then formed are spoken by the app.<br>
 
 
 <!-- CONNECT ME SECTION -->
